@@ -8,7 +8,7 @@
 - Comma Operator – How It Works?  
 - Which is Faster: pre OR post Increment With Proof In C & C++?  
 - What Is The Order Of Function Parameter Evaluation In C++?  
-- Why Copy Constructor Take an Argument As a Reference?  
+- Why does the Copy Constructor Take an Argument As a Reference?  
 - Why the Size Of an Empty class OR struct in C++?  
 - Why Prefer Pass By Reference Or Pointer Over Pass By Value?  
 
@@ -70,7 +70,7 @@
 ## 5. Templates & Generic Programming
 - How Static Variables Behave In Template Class And Template Functions?  
 - Why Template Functions Only Defined Inside Header Files?  
-- What Are All Those Places Where Initialiser List Is Must In C++?  
+- What Are All Those Places Where Initialiser List Is Mandatory In C++?  
 
 ---
 
