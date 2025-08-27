@@ -49,7 +49,6 @@
 - dynamic_cast: In C++, When And Why To Use It?  
 - reinterpret_cast: In C++, When And Why To Use It?  
 - const_cast In C++, Why And When To Use It?  
-- reinterpret_cast In C++ – Where To Use reinterpret_cast In C++?  
 
 ---
 
