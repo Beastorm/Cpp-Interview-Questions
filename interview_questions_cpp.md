@@ -1,4 +1,4 @@
-# 📘 C / C++ Interview Questions (Organized)
+# 📘 C / C++ Interview Questions
 
 ## 1. Core Concepts (Language Basics)
 - auto Keyword in C++11  
