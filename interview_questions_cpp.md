@@ -121,4 +121,3 @@
 - gdb And How To Debug C And C++ Code  
 - Do You Know How To Debug Using GDB In C++?  
 - Must Watch For Knowledge For C & C++ Programmer  
-# Cpp-Interview-Questions
